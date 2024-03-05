@@ -1,0 +1,555 @@
+Common Eider (Adult male)
+Long-tailed Duck (Winter male)
+Ruddy Duck (Breeding male)
+Swainson's Hawk (Dark morph )
+Red-tailed Hawk (Light morph adult)
+Snow Goose (White morph)
+Wood Duck (Breeding male)
+Gadwall (Breeding male)
+American Wigeon (Breeding male)
+Mallard (Breeding male)
+Blue-winged Teal (Male)
+Cinnamon Teal (Male)
+Northern Shoveler (Breeding male)
+Northern Pintail (Breeding male)
+Green-winged Teal (Male)
+Canvasback (Breeding male)
+Redhead (Breeding male)
+Ring-necked Duck (Breeding male)
+Greater Scaup (Breeding male)
+Lesser Scaup (Breeding male)
+Harlequin Duck (Male)
+Surf Scoter (Male)
+White-winged Scoter (Male)
+Black Scoter (Male)
+Bufflehead (Breeding male)
+Common Goldeneye (Breeding male)
+Barrow's Goldeneye (Breeding male)
+Hooded Merganser (Breeding male)
+Common Merganser (Breeding male)
+Red-breasted Merganser (Breeding male)
+California Quail (Male)
+Gambel's Quail (Male)
+Ring-necked Pheasant (Male)
+Red-throated Loon (Breeding)
+Pacific Loon (Breeding)
+Common Loon (Breeding)
+Horned Grebe (Breeding)
+Red-necked Grebe (Breeding)
+Eared Grebe (Breeding)
+Northern Gannet (Adult, Subadult)
+Double-crested Cormorant (Immature)
+Great Cormorant (Adult)
+Little Blue Heron (Adult)
+Reddish Egret (Dark morph)
+Black-crowned Night-Heron (Adult)
+Yellow-crowned Night-Heron (Adult)
+White Ibis (Adult)
+Bald Eagle (Adult, subadult)
+Northern Harrier (Adult male)
+Sharp-shinned Hawk (Adult )
+Cooper's Hawk (Adult)
+Red-shouldered Hawk (Adult )
+Broad-winged Hawk (Adult)
+Rough-legged Hawk (Dark morph)
+Golden Eagle (Adult)
+American Kestrel (Adult male)
+Peregrine Falcon (Adult)
+Purple Gallinule (Adult)
+Common Gallinule (Adult)
+Black-bellied Plover (Breeding)
+Spotted Sandpiper (Breeding)
+Sanderling (Breeding)
+Dunlin (Breeding)
+Wilson's Phalarope (Breeding)
+Broad-billed Hummingbird (Adult Male)
+Ruby-throated Hummingbird (Adult Male)
+Black-chinned Hummingbird (Adult Male)
+Anna's Hummingbird (Adult Male)
+Costa's Hummingbird (Adult Male)
+Calliope Hummingbird (Adult Male)
+Broad-tailed Hummingbird (Adult Male)
+Rufous Hummingbird (Adult Male)
+Allen's Hummingbird (Adult Male)
+Red-headed Woodpecker (Adult)
+Northern Flicker (Yellow-shafted)
+Black Guillemot (Breeding)
+Pigeon Guillemot (Breeding)
+Black-legged Kittiwake (Adult)
+Laughing Gull (Breeding)
+Heermann's Gull (Adult)
+Ring-billed Gull (Adult)
+Western Gull (Adult)
+California Gull (Adult)
+Herring Gull (Adult)
+Glaucous-winged Gull (Adult)
+Great Black-backed Gull (Adult)
+Bonaparte's Gull
+Mew Gull
+Caspian Tern
+Black Tern
+Common Tern
+Forster's Tern
+Royal Tern
+Black Skimmer
+Greater White-fronted Goose
+Brant
+Cackling Goose
+Canada Goose
+Mute Swan
+Trumpeter Swan
+Tundra Swan
+American Black Duck
+Mottled Duck
+Common Eider (Female/juvenile)
+Long-tailed Duck (Summer male)
+Ruddy Duck (Winter male)
+Scaled Quail
+Northern Bobwhite
+Ruffed Grouse
+Wild Turkey
+Pied-billed Grebe
+Western Grebe
+Clark's Grebe
+Wood Stork
+Brandt's Cormorant
+Neotropic Cormorant
+Pelagic Cormorant
+Anhinga
+American White Pelican
+Brown Pelican
+Great Blue Heron
+Great Egret
+Snowy Egret
+Tricolored Heron
+Cattle Egret
+Green Heron
+Glossy Ibis
+White-faced Ibis
+Roseate Spoonbill
+Black Vulture
+Turkey Vulture
+Osprey
+Swallow-tailed Kite
+White-tailed Kite
+Mississippi Kite
+Harris's Hawk
+Swainson's Hawk (Light morph )
+Red-tailed Hawk (Dark morph)
+Crested Caracara
+Merlin
+Prairie Falcon
+American Coot
+Sandhill Crane
+Semipalmated Plover
+Killdeer
+American Oystercatcher
+Black Oystercatcher
+Black-necked Stilt
+American Avocet
+Solitary Sandpiper
+Greater Yellowlegs
+Willet
+Lesser Yellowlegs
+Whimbrel
+Long-billed Curlew
+Marbled Godwit
+Ruddy Turnstone
+Black Turnstone
+Surfbird
+Semipalmated Sandpiper
+Western Sandpiper
+Least Sandpiper
+Short-billed Dowitcher
+Wilson's Snipe
+American Woodcock
+Rock Pigeon
+Band-tailed Pigeon
+Eurasian Collared-Dove
+White-winged Dove
+Mourning Dove
+Inca Dove
+Common Ground-Dove
+Monk Parakeet
+Yellow-billed Cuckoo
+Black-billed Cuckoo
+Greater Roadrunner
+Barn Owl
+Western Screech-Owl
+Eastern Screech-Owl
+Great Horned Owl
+Snowy Owl
+Northern Pygmy-Owl
+Burrowing Owl
+Barred Owl
+Northern Saw-whet Owl
+Common Nighthawk
+Chimney Swift
+Vaux's Swift
+White-throated Swift
+Belted Kingfisher
+Acorn Woodpecker
+Gila Woodpecker
+Golden-fronted Woodpecker
+Red-bellied Woodpecker
+Yellow-bellied Sapsucker
+Red-naped Sapsucker
+Red-breasted Sapsucker
+Ladder-backed Woodpecker
+Nuttall's Woodpecker
+Downy Woodpecker
+Hairy Woodpecker
+Pileated Woodpecker
+Black Guillemot (Nonbreeding, juvenile)
+Pigeon Guillemot (Nonbreeding, juvenile)
+Black-legged Kittiwake (Immature)
+Laughing Gull (Nonbreeding/Immature)
+Heermann's Gull (Immature)
+Ring-billed Gull (Immature)
+Western Gull (Immature)
+California Gull (Immature)
+Herring Gull (Immature)
+Glaucous-winged Gull (Immature)
+Great Black-backed Gull (Immature)
+Black-bellied Whistling-Duck
+Snow Goose (Blue morph)
+Ross's Goose
+Wood Duck (Female/Eclipse male)
+Gadwall (Female/Eclipse male)
+American Wigeon (Female/Eclipse male)
+Mallard (Female/Eclipse male)
+Blue-winged Teal (Female/juvenile)
+Cinnamon Teal (Female/juvenile)
+Northern Shoveler (Female/Eclipse male)
+Northern Pintail (Female/Eclipse male)
+Green-winged Teal (Female/juvenile)
+Canvasback (Female/Eclipse male)
+Redhead (Female/Eclipse male)
+Ring-necked Duck (Female/Eclipse male)
+Greater Scaup (Female/Eclipse male)
+Lesser Scaup (Female/Eclipse male)
+Harlequin Duck (Female/juvenile)
+Surf Scoter (Female/immature)
+White-winged Scoter (Female/juvenile)
+Black Scoter (Female/juvenile)
+Bufflehead (Female/immature male)
+Common Goldeneye (Female/Eclipse male)
+Barrow's Goldeneye (Female/Eclipse male)
+Hooded Merganser (Female/immature male)
+Common Merganser (Female/immature male)
+Red-breasted Merganser (Female/immature male)
+California Quail (Female/juvenile)
+Gambel's Quail (Female/juvenile)
+Ring-necked Pheasant (Female/juvenile)
+Red-throated Loon (Nonbreeding/juvenile)
+Pacific Loon (Nonbreeding/juvenile)
+Common Loon (Nonbreeding/juvenile)
+Horned Grebe (Nonbreeding/juvenile)
+Red-necked Grebe (Nonbreeding/juvenile)
+Eared Grebe (Nonbreeding/juvenile)
+Northern Gannet (Immature/Juvenile)
+Double-crested Cormorant (Adult)
+Great Cormorant (Immature)
+Little Blue Heron (Immature)
+Reddish Egret (White morph)
+Black-crowned Night-Heron (Immature)
+Yellow-crowned Night-Heron (Immature)
+White Ibis (Immature)
+Bald Eagle (Immature, juvenile)
+Northern Harrier (Female, immature)
+Sharp-shinned Hawk (Immature)
+Cooper's Hawk (Immature)
+Red-shouldered Hawk (Immature)
+Broad-winged Hawk (Immature)
+Rough-legged Hawk (Light morph)
+Golden Eagle (Immature)
+American Kestrel (Female, immature)
+Peregrine Falcon (Immature)
+Purple Gallinule (Immature)
+Common Gallinule (Immature)
+Black-bellied Plover (Nonbreeding/juvenile)
+Spotted Sandpiper (Nonbreeding/juvenile)
+Sanderling (Nonbreeding/juvenile)
+Dunlin (Nonbreeding/juvenile)
+Wilson's Phalarope (Nonbreeding, juvenile)
+Broad-billed Hummingbird (Female, immature)
+Ruby-throated Hummingbird (Female, immature)
+Black-chinned Hummingbird (Female, immature)
+Anna's Hummingbird (Female, immature)
+Costa's Hummingbird (Female, immature)
+Calliope Hummingbird (Female, immature)
+Broad-tailed Hummingbird (Female, immature)
+Rufous Hummingbird (Female, immature)
+Allen's Hummingbird (Female, immature)
+Red-headed Woodpecker (Immature)
+Northern Flicker (Red-shafted)
+Common Eider (Immature/Eclipse male)
+Long-tailed Duck (Female/juvenile)
+Ruddy Duck (Female/juvenile)
+Swainson's Hawk (Immature)
+Red-tailed Hawk (Light morph immature)
+Dark-eyed Junco (Slate-colored)
+Yellow-rumped Warbler (Breeding Myrtle)
+European Starling (Breeding Adult)
+Fox Sparrow (Red)
+Summer Tanager (Adult Male)
+Orchard Oriole (Adult Male)
+Purple Martin (Adult male)
+American Robin (Adult)
+Phainopepla (Female/juvenile)
+Snow Bunting (Breeding adult)
+Common Yellowthroat (Adult Male)
+American Redstart (Adult Male)
+Magnolia Warbler (Breeding male)
+Bay-breasted Warbler (Breeding male)
+Chestnut-sided Warbler (Breeding male)
+Blackpoll Warbler (Breeding male)
+Black-throated Blue Warbler (Adult Male)
+Lark Bunting (Breeding male)
+White-throated Sparrow (White-striped)
+Harris's Sparrow (Adult)
+White-crowned Sparrow (Adult)
+Golden-crowned Sparrow (Adult)
+Dark-eyed Junco (Oregon)
+Chipping Sparrow (Breeding)
+Scarlet Tanager (Breeding Male)
+Western Tanager (Breeding Male)
+Northern Cardinal (Adult Male)
+Rose-breasted Grosbeak (Adult Male)
+Black-headed Grosbeak (Adult Male)
+Blue Grosbeak (Adult Male)
+Lazuli Bunting (Adult Male)
+Indigo Bunting (Adult Male)
+Painted Bunting (Adult Male)
+Bobolink (Breeding male)
+Red-winged Blackbird (Male)
+Yellow-headed Blackbird (Adult Male)
+Brewer's Blackbird (Female/Juvenile)
+Brown-headed Cowbird (Male)
+Hooded Oriole (Adult male)
+Bullock's Oriole (Adult male)
+Baltimore Oriole (Adult male)
+Pine Grosbeak (Adult Male)
+Purple Finch (Adult Male)
+Cassin's Finch (Adult Male)
+House Finch (Adult Male)
+Red Crossbill (Adult Male)
+White-winged Crossbill (Adult Male)
+Lesser Goldfinch (Adult Male)
+American Goldfinch (Breeding Male)
+Evening Grosbeak (Adult Male)
+House Sparrow (Male)
+Vermilion Flycatcher (Adult male)
+Yellow-rumped Warbler (Winter/juvenile Myrtle)
+Northwestern Crow
+Fish Crow
+Chihuahuan Raven
+Common Raven
+Horned Lark
+Tree Swallow
+Violet-green Swallow
+Northern Rough-winged Swallow
+Bank Swallow
+Cliff Swallow
+Cave Swallow
+Barn Swallow
+Carolina Chickadee
+Black-capped Chickadee
+Mountain Chickadee
+Chestnut-backed Chickadee
+Boreal Chickadee
+Bridled Titmouse
+Oak Titmouse
+Juniper Titmouse
+Tufted Titmouse
+Black-crested Titmouse
+Verdin
+Bushtit
+Red-breasted Nuthatch
+White-breasted Nuthatch
+Pygmy Nuthatch
+Brown-headed Nuthatch
+Brown Creeper
+Cactus Wren
+Canyon Wren
+Carolina Wren
+Bewick's Wren
+House Wren
+Pacific Wren
+Winter Wren
+Marsh Wren
+Blue-gray Gnatcatcher
+Black-tailed Gnatcatcher
+American Dipper
+Golden-crowned Kinglet
+Ruby-crowned Kinglet
+Wrentit
+Eastern Bluebird
+Western Bluebird
+Mountain Bluebird
+Townsend's Solitaire
+Veery
+Swainson's Thrush
+Hermit Thrush
+Wood Thrush
+Varied Thrush
+Gray Catbird
+Northern Mockingbird
+Brown Thrasher
+Curve-billed Thrasher
+California Thrasher
+European Starling (Nonbreeding Adult)
+American Pipit
+Bohemian Waxwing
+Cedar Waxwing
+Ovenbird
+Louisiana Waterthrush
+Northern Waterthrush
+Blue-winged Warbler
+Black-and-white Warbler
+Prothonotary Warbler
+Tennessee Warbler
+Orange-crowned Warbler
+Nashville Warbler
+MacGillivray's Warbler
+Mourning Warbler
+Hooded Warbler
+Cape May Warbler
+Northern Parula
+Blackburnian Warbler
+Yellow Warbler
+Palm Warbler
+Pine Warbler
+Yellow-throated Warbler
+Prairie Warbler
+Black-throated Gray Warbler
+Townsend's Warbler
+Hermit Warbler
+Black-throated Green Warbler
+Canada Warbler
+Wilson's Warbler
+Yellow-breasted Chat
+Green-tailed Towhee
+Spotted Towhee
+Eastern Towhee
+Rufous-crowned Sparrow
+Canyon Towhee
+California Towhee
+Abert's Towhee
+American Tree Sparrow
+Clay-colored Sparrow
+Brewer's Sparrow
+Field Sparrow
+Vesper Sparrow
+Lark Sparrow
+Savannah Sparrow
+Fox Sparrow (Sooty)
+Song Sparrow
+Lincoln's Sparrow
+Swamp Sparrow
+Dark-eyed Junco (Pink-sided)
+Summer Tanager (Female)
+Pyrrhuloxia
+Dickcissel
+Eastern Meadowlark
+Western Meadowlark
+Rusty Blackbird
+Common Grackle
+Boat-tailed Grackle
+Great-tailed Grackle
+Bronzed Cowbird
+Orchard Oriole (Immature Male)
+Gray-crowned Rosy-Finch
+Black Rosy-Finch
+Brown-capped Rosy-Finch
+Common Redpoll
+Hoary Redpoll
+Pine Siskin
+Western Wood-Pewee
+Eastern Wood-Pewee
+Least Flycatcher
+Pacific-slope Flycatcher
+Cordilleran Flycatcher
+Black Phoebe
+Eastern Phoebe
+Say's Phoebe
+Ash-throated Flycatcher
+Great Crested Flycatcher
+Cassin's Kingbird
+Western Kingbird
+Eastern Kingbird
+Scissor-tailed Flycatcher
+Loggerhead Shrike
+Northern Shrike
+White-eyed Vireo
+Bell's Vireo
+Yellow-throated Vireo
+Plumbeous Vireo
+Cassin's Vireo
+Blue-headed Vireo
+Hutton's Vireo
+Warbling Vireo
+Red-eyed Vireo
+Gray Jay
+Steller's Jay
+Blue Jay
+Florida Scrub-Jay
+Western Scrub-Jay
+Mexican Jay
+Clark's Nutcracker
+Black-billed Magpie
+Yellow-billed Magpie
+American Crow
+Yellow-rumped Warbler (Breeding Audubon's)
+Purple Martin (Female/juvenile)
+American Robin (Juvenile)
+Phainopepla (Male)
+Snow Bunting (Nonbreeding)
+Common Yellowthroat (Female/immature male)
+American Redstart (Female/juvenile)
+Magnolia Warbler (Female/immature male)
+Bay-breasted Warbler (Female, Nonbreeding male, Immature)
+Chestnut-sided Warbler (Female/immature male)
+Blackpoll Warbler (Female/juvenile)
+Black-throated Blue Warbler (Female/Immature male)
+Lark Bunting (Female/Nonbreeding male)
+White-throated Sparrow (Tan-striped/immature)
+Harris's Sparrow (Immature)
+White-crowned Sparrow (Immature)
+Golden-crowned Sparrow (Immature)
+Dark-eyed Junco (White-winged)
+Chipping Sparrow (Immature/nonbreeding adult)
+Scarlet Tanager (Female/Nonbreeding Male)
+Western Tanager (Female/Nonbreeding Male)
+Northern Cardinal (Female/Juvenile)
+Rose-breasted Grosbeak (Female/immature male)
+Black-headed Grosbeak (Female/immature male)
+Blue Grosbeak (Female/juvenile)
+Lazuli Bunting (Female/juvenile)
+Indigo Bunting (Female/juvenile)
+Painted Bunting (Female/juvenile)
+Bobolink (Female/juvenile/nonbreeding male)
+Red-winged Blackbird (Female/juvenile)
+Yellow-headed Blackbird (Female/Immature Male)
+Brewer's Blackbird (Male)
+Brown-headed Cowbird (Female/Juvenile)
+Hooded Oriole (Female/Immature male)
+Bullock's Oriole (Female/Immature male)
+Baltimore Oriole (Female/Immature male)
+Pine Grosbeak (Female/juvenile)
+Purple Finch (Female/immature)
+Cassin's Finch (Female/immature)
+House Finch (Female/immature)
+Red Crossbill (Female/juvenile)
+White-winged Crossbill (Female/juvenile)
+Lesser Goldfinch (Female/juvenile)
+American Goldfinch (Female/Nonbreeding Male)
+Evening Grosbeak (Female/Juvenile)
+House Sparrow (Female/Juvenile)
+Vermilion Flycatcher (Female, immature)
+European Starling (Juvenile)
+Fox Sparrow (Thick-billed/Slate-colored)
+Summer Tanager (Immature Male)
+Orchard Oriole (Female/Juvenile)
+Yellow-rumped Warbler (Winter/juvenile Audubon's)
+Dark-eyed Junco (Red-backed/Gray-headed)

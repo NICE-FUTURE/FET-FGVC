@@ -1,0 +1,13 @@
+parent: ./configs/nabird/base.yaml
+
+dataset:
+  root_dir: ~/workspace/dataset/NABirds/
+
+backbone:
+  pretrain_root: ~/workspace/pretrained/
+
+train:
+  num_workers: 4
+
+val:
+  num_workers: 4

@@ -1,0 +1,26 @@
+dataset:
+  txt_dir: ./data/nabird/
+  num_classes: 555
+
+backbone:
+  drop_rate: 0.0
+  drop_path_rate: 0.0
+  attn_drop_rate: 0.0
+
+train:
+  stage: train
+  warmup_epochs: 10
+  log_step: 50
+  backbone_lr: 1e-5
+  others_lr: 5e-5
+  betas: [0.9, 0.999]
+  weight_decay: 0.01
+
+val:
+  stage: val
+  log_step: 50
+
+test:
+  stage: val
+  batch_size: 50
+  log_step: 50

@@ -1,0 +1,13 @@
+parent: ./configs/cub/base.yaml
+
+dataset:
+  root_dir: ~/workspace/dataset/CUB_200_2011/
+
+backbone:
+  pretrain_root: ~/workspace/pretrained/
+
+train:
+  num_workers: 4
+
+val:
+  num_workers: 4

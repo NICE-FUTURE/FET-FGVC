@@ -1,0 +1,13 @@
+parent: ./configs/inat17/base.yaml
+
+dataset:
+  root_dir: ~/workspace/dataset1/iNaturalist2017/
+
+backbone:
+  pretrain_root: ~/workspace/pretrained/
+
+train:
+  num_workers: 4
+
+val:
+  num_workers: 4
